@@ -118,3 +118,35 @@ Buat **about.php** dan code nya
 
 * Tampilan **about** page pada browser yang menggunakan modular ***header*** dan ***footer***
 ![about-page](img/tampilan-about.png)
+
+--------------------------------------------------------------------------------
+
+## PERTANYAAN DAN TUGAS
+
+* Implementasikan konsep modularisasi pada kode program **praktikum 8** tentang database, sehingga setiap halamannya template tampilan yang sama.
+
+## 1) BUAT FOLDER BARU **lab9_tugas**
+
+**PENJELASAN**
+
+Buat file baru atau salin file pada **praktikum 8** lalu implementasikan dengan menambahkan modular **header** dan **footer**
+
+## HASIL
+
+* Tampilan pada bagian **Home** 
+![home-page](img/page-home.png)
+
+
+* Tampilan pada bagian **Tambah Barang**
+![page-tambah-barang](img/page-tambah-barang.png)
+
+
+* Tampilan pada bagian **Ubah Barang**
+![page-ubah-barang](img/page-ubah-barang.png)
+
+
+## PERTEMUAN KALI INI CUKUP SAMPAI DISINI DAN SAMPAI BERTEMU DIPERTEMUAN BERIKUTNYA
+
+## TERIMAKASIH
+
+## @HERLIYANSYAH
